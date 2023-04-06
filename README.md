@@ -2,9 +2,9 @@
 
 Exercício proposto pelo curso Dev Quest, baseado no desafio do site Frontend Mentor - [Frontend Mentor | Advice generator app coding challenge](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). 
 
-## Desafio - Parte 1 (Módulo CSS Avançado)
+## Desafio - Parte 1 (Módulo CSS Avançado) - concluído
 
-Construir um aplicativo que gere conselhos aleatórios. Nessa primeira etapa do exercício, será realizado apenas a construção do HTML e CSS.
+Construir um aplicativo que gere conselhos aleatórios. Nessa primeira etapa do exercício, foi realizado apenas a construção do HTML e CSS.
 
 ## Desafio - Parte 2 (Módulo JS Avançado) - em andamento...
 
